@@ -12,7 +12,7 @@
 ## 🌐 Socials
 
  <p align="left">
-  <a href="https://linkedin.com/in/john-rey-excel-rementizo" target="_blank">
+  <a href="https://linkedin.com/in/john-rey-excel-rementizo-b96954363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
