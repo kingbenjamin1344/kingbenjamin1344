@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 ---
-## About Me:
+## ✨ About Me:
 
 - 🎓 Studied Bachelor of Science Information Technology course
 - 💻 Currently learning new frameworks, api and ai integrations
@@ -9,3 +9,14 @@
 
 ---
 
+## 🌐 Socials
+
+ <p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+ 
+</p>
+
+---
