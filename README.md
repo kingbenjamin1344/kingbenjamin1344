@@ -6,4 +6,4 @@
 - 💻 Currently learning new frameworks, api and ai integrations
 - 💡 Fun fact about me is i love learning things and figure it out on my own
 
----
+
