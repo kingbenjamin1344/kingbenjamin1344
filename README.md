@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👋</h1>
 
----
+
 ## ✨ About Me:
 - 🎓 Studied Bachelor of Science Information Technology course
 - 💻 Currently learning new frameworks, api and ai integrations
