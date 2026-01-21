@@ -8,3 +8,5 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingbenjamin1344&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingbenjamin1344&layout=donut-vertical)](https://github.com/kingbenjamin1344/github-readme-stats)
