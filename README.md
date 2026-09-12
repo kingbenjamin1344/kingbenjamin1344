@@ -7,22 +7,7 @@
 - 💡 Fun trivia about me is i love learning things and figure it out on my own
 
 ---
-## 📊 GitHub Statistics
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kingbenjamin1344&show_icons=true&theme=vision-friendly-dark"
-    alt="My GitHub Stats"
-    width="47%"
-    height="195"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingbenjamin1344&layout=compact&theme=vision-friendly-dark"
-    alt="Top Languages"
-    width="47%"
-    height="195"
-  />
-</p>
 
 ---
 ## 💻 Technologies Stack
